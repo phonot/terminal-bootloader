@@ -19,3 +19,4 @@ You might want to edit the [background image](./background.png).
 Updates:
 1) added theme.conf
 2) added custom logos- ubuntu logo, added win8 logo- windows 11 identified as win8 for some reason
+3) added custom logo- manjaro logo
